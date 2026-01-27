@@ -8,7 +8,8 @@
 <body>
     <?php 
     $nome = $_POST['nome'];
-    echo "Resultado $nome";
+    $sobrenome = $_POST['sobrenome'];
+    echo "Resultado $nome $sobrenome";
     ?>
 </body>
 </html>
