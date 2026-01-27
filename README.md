@@ -1,4 +1,5 @@
 # estudo-php
-Estudo sobre php
-Aqui incio minha caminhada!
-comecei com formularios!
+Estudo sobre php<br>
+Aqui incio minha caminhada!<br>
+comecei com formularios!<br>
+Agora adicionei um pouco de estilo!
