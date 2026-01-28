@@ -9,5 +9,5 @@ if(isset($_SESSION['lista_tarefas'])){
 else{
     $lista_tarefas = array();
 }
-include "templete.php"
+include "templete.php";
 ?>

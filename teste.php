@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Resultado do Teste</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <?php 
     $nome = $_POST['nome'];
     $sobrenome = $_POST['sobrenome'];
-    echo "Resultado $nome $sobrenome";
+    echo "Bem-vindo ao meu hulmide formulario $nome $sobrenome";
     ?>
 </body>
 </html>
